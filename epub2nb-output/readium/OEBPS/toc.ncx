@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd"><ncx version="2005-1" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+  <head>
+    <meta content="63f01a80-ff92-4b83-abfd-a6f83377ca29" name="dtb:uid"/>
+    <meta content="1" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>Plody Tantalovy</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Na širých vodách řeky</text>
+      </navLabel>
+      <content src="Text/plody_tantalovy_005.html"/>
+    </navPoint>
+    <navPoint id="navPoint-2" playOrder="2">
+      <navLabel>
+        <text>Jedna stará dáma,</text>
+      </navLabel>
+      <content src="Text/plody_tantalovy_006.html"/>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Jenom ať mi slouží zdraví,</text>
+      </navLabel>
+      <content src="Text/plody_tantalovy_007.html"/>
+    </navPoint>
+    <navPoint id="navPoint-4" playOrder="4">
+      <navLabel>
+        <text>Za rudou Zorou Slunce pozlacené</text>
+      </navLabel>
+      <content src="Text/plody_tantalovy_008.html"/>
+    </navPoint>
+    <navPoint id="navPoint-5" playOrder="5">
+      <navLabel>
+        <text>Dokud, chtějíce soupeřit s tvým vlasem,</text>
+      </navLabel>
+      <content src="Text/plody_tantalovy_009.html"/>
+    </navPoint>
+    <navPoint id="navPoint-6" playOrder="6">
+      <navLabel>
+        <text>Ó tekutého živlu světlá slávo,</text>
+      </navLabel>
+      <content src="Text/plody_tantalovy_010.html"/>
+    </navPoint>
+    <navPoint id="navPoint-7" playOrder="7">
+      <navLabel>
+        <text>Cudnosti čisté chráme zasvěcený</text>
+      </navLabel>
+      <content src="Text/plody_tantalovy_011.html"/>
+    </navPoint>
+    <navPoint id="navPoint-8" playOrder="8">
+      <navLabel>
+        <text>V dvou křišťálových schránách, zleva, zprava</text>
+      </navLabel>
+      <content src="Text/plody_tantalovy_012.html"/>
+    </navPoint>
+    <navPoint id="navPoint-9" playOrder="9">
+      <navLabel>
+        <text>Po deset let s mrtvým srdcem</text>
+      </navLabel>
+      <content src="Text/plody_tantalovy_013.html"/>
+    </navPoint>
+    <navPoint id="navPoint-10" playOrder="10">
+      <navLabel>
+        <text>Že mám čas, dnes zahraju vám</text>
+      </navLabel>
+      <content src="Text/plody_tantalovy_014.html"/>
+    </navPoint>
+    <navPoint id="navPoint-11" playOrder="11">
+      <navLabel>
+        <text>Když štědřeji už na pole i dále</text>
+      </navLabel>
+      <content src="Text/plody_tantalovy_015.html"/>
+    </navPoint>
+    <navPoint id="navPoint-12" playOrder="12">
+      <navLabel>
+        <text>Jak by sloň od Gangy, jež má tok širý,</text>
+      </navLabel>
+      <content src="Text/plody_tantalovy_016.html"/>
+    </navPoint>
+    <navPoint id="navPoint-13" playOrder="13">
+      <navLabel>
+        <text>Nebi vzdávám díky,</text>
+      </navLabel>
+      <content src="Text/plody_tantalovy_017.html"/>
+    </navPoint>
+    <navPoint id="navPoint-14" playOrder="14">
+      <navLabel>
+        <text>Tak půvabně a různorodě v tónu</text>
+      </navLabel>
+      <content src="Text/plody_tantalovy_018.html"/>
+    </navPoint>
+    <navPoint id="navPoint-15" playOrder="15">
+      <navLabel>
+        <text>Těch sladkých úst, která zvou okusit</text>
+      </navLabel>
+      <content src="Text/plody_tantalovy_019.html"/>
+    </navPoint>
+    <navPoint id="navPoint-16" playOrder="16">
+      <navLabel>
+        <text>Pozorně mi naslouchejte,</text>
+      </navLabel>
+      <content src="Text/plody_tantalovy_020.html"/>
+    </navPoint>
+    <navPoint id="navPoint-17" playOrder="17">
+      <navLabel>
+        <text>Ó vale šlechetný, ó věže ladné</text>
+      </navLabel>
+      <content src="Text/plody_tantalovy_021.html"/>
+    </navPoint>
+    <navPoint id="navPoint-18" playOrder="18">
+      <navLabel>
+        <text>Potřikrát již Boréas svlékl stromy</text>
+      </navLabel>
+      <content src="Text/plody_tantalovy_022.html"/>
+    </navPoint>
+    <navPoint id="navPoint-19" playOrder="19">
+      <navLabel>
+        <text>Nešťastný a zarmoucený</text>
+      </navLabel>
+      <content src="Text/plody_tantalovy_023.html"/>
+    </navPoint>
+    <navPoint id="navPoint-20" playOrder="20">
+      <navLabel>
+        <text>V Oranu svým ostrým kopím</text>
+      </navLabel>
+      <content src="Text/plody_tantalovy_024.html"/>
+    </navPoint>
+    <navPoint id="navPoint-21" playOrder="21">
+      <navLabel>
+        <text>— Jste děravá, má záštito a paní</text>
+      </navLabel>
+      <content src="Text/plody_tantalovy_025.html"/>
+    </navPoint>
+    <navPoint id="navPoint-22" playOrder="22">
+      <navLabel>
+        <text>Tvůj most je, Manzanaresi, až k pláči,</text>
+      </navLabel>
+      <content src="Text/plody_tantalovy_026.html"/>
+    </navPoint>
+    <navPoint id="navPoint-23" playOrder="23">
+      <navLabel>
+        <text>Pláče děvče, však má</text>
+      </navLabel>
+      <content src="Text/plody_tantalovy_027.html"/>
+    </navPoint>
+    <navPoint id="navPoint-24" playOrder="24">
+      <navLabel>
+        <text>Vám, plnému nymf a nymfů,</text>
+      </navLabel>
+      <content src="Text/plody_tantalovy_028.html"/>
+    </navPoint>
+    <navPoint id="navPoint-25" playOrder="25">
+      <navLabel>
+        <text>S nožkou raněnou břitem, třebas krátce</text>
+      </navLabel>
+      <content src="Text/plody_tantalovy_029.html"/>
+    </navPoint>
+    <navPoint id="navPoint-26" playOrder="26">
+      <navLabel>
+        <text>Na mém sladkém inštrumentu</text>
+      </navLabel>
+      <content src="Text/plody_tantalovy_030.html"/>
+    </navPoint>
+    <navPoint id="navPoint-27" playOrder="27">
+      <navLabel>
+        <text>Na kříži viset s probodnutou hrudí</text>
+      </navLabel>
+      <content src="Text/plody_tantalovy_031.html"/>
+    </navPoint>
+    <navPoint id="navPoint-28" playOrder="28">
+      <navLabel>
+        <text>Peníze jsou moc a vláda,</text>
+      </navLabel>
+      <content src="Text/plody_tantalovy_032.html"/>
+    </navPoint>
+    <navPoint id="navPoint-29" playOrder="29">
+      <navLabel>
+        <text>Jak Alcino krásně pláče,</text>
+      </navLabel>
+      <content src="Text/plody_tantalovy_033.html"/>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>Ze sítin Duera pastýřka má smělá</text>
+      </navLabel>
+      <content src="Text/plody_tantalovy_034.html"/>
+    </navPoint>
+    <navPoint id="navPoint-31" playOrder="31">
+      <navLabel>
+        <text>O Thisbé a Pyramovi</text>
+      </navLabel>
+      <content src="Text/plody_tantalovy_035.html"/>
+    </navPoint>
+    <navPoint id="navPoint-32" playOrder="32">
+      <navLabel>
+        <text>Květy rozmarýny v lukách,</text>
+      </navLabel>
+      <content src="Text/plody_tantalovy_036.html"/>
+    </navPoint>
+    <navPoint id="navPoint-33" playOrder="33">
+      <navLabel>
+        <text>Ach námořníku na královském dvoře,</text>
+      </navLabel>
+      <content src="Text/plody_tantalovy_037.html"/>
+    </navPoint>
+    <navPoint id="navPoint-34" playOrder="34">
+      <navLabel>
+        <text>K hrobkám králů, k prachu plebejských kostí</text>
+      </navLabel>
+      <content src="Text/plody_tantalovy_038.html"/>
+    </navPoint>
+    <navPoint id="navPoint-35" playOrder="35">
+      <navLabel>
+        <text>Poutníku, tímto uhlazeným stylem</text>
+      </navLabel>
+      <content src="Text/plody_tantalovy_039.html"/>
+    </navPoint>
+  </navMap>
+</ncx>
