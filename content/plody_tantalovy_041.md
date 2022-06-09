@@ -2,8 +2,8 @@
 contentType: prose
 ---
 
-Luis de Góngora y Argote  
-Plody Tantalovy
+**Luis de Góngora y Argote  
+Plody Tantalovy**
 
 Překlad Miloslav Uličný
 
