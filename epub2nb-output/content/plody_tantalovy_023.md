@@ -7,7 +7,7 @@ contentType: prose
 po píscích Pisuergy bloudí,  
 odloučený od své dámy,  
 Zulema smutný a hloupý.  
-Maur klíčník, leč holobrádek,  
+_Maur klíčník_, leč _holobrádek_,  
 milovník, jejž hlava bolí,  
 koňský obličej má sice,  
 v lýtkách však je víc než oblý.  

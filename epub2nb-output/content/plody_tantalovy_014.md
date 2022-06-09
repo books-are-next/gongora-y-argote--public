@@ -42,7 +42,7 @@ křižujícím mořem britským;
 a jsa novým Alkeidem  
 s jeho sloupy jsem se klidil  
 z Gibraltaru do Japonska,  
-až k Plus ultra světa lidí.  
+až k _Plus ultra_ světa lidí.  
 Pak řeč k Flandrům otočil jsem;  
 vavřín válek nezdařilých  
 buď důvtipu přisoudil jsem,  
