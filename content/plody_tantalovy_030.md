@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Na mém sladkém inštrumentu
 
 každá struna oprátka je;  
@@ -134,3 +136,5 @@ má glejt ten pán podnikavý…
           Takové jsou moje zprávy!
 
 (1585)
+
+</section>

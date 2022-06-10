@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 O Thisbé a Pyramovi,  
 pokud mi v tom nezabrání  
 kytara má, vám teď povím  
@@ -52,3 +54,5 @@ za kolébku měla v dětství,
 za polštář pak v útlém mládí.
 
 (1604)
+
+</section>

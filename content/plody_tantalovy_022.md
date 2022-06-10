@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Potřikrát již Boréas svlékl stromy
 
 — všem rostlinám tak zelenou čest loupí —  
@@ -22,3 +24,5 @@ jak sledují nás podle stop, jež v zemi
 necháváme — já z krve, a ty z květů.
 
 (1585)
+
+</section>

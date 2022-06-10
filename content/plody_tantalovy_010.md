@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Ó tekutého živlu světlá slávo,
 
 potůčku něžný stříbřitého toku,  
@@ -22,3 +24,5 @@ v hlubokém klíně tolik krásy vládce,
 jehož trojzubec nikdy neosychá.
 
 (1582)
+
+</section>

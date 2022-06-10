@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Jak by sloň od Gangy, jež má tok širý,
 
 jak z Paru bílý mramor, eben tmavý,  
@@ -22,3 +24,5 @@ voskovou figurkou v paprscích slunce,
 ó krásná Clori, sladká nepřítelko?
 
 (1583)
+
+</section>

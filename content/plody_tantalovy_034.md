@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Ze sítin Duera pastýřka má smělá
 
 má měkké lože, jež jí víly vily;  
@@ -22,3 +24,5 @@ a na zvěř jeden luk jen napřahuje;
 leč na mě hned dva luky napružila!
 
 (1602)
+
+</section>

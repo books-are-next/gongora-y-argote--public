@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Jak Alcino krásně pláče,
 
 ten Orfeus od Guadiany,  
@@ -36,3 +38,5 @@ naděje se vleče za ní.
 neštěstí v patách vždy, čas štěstí vratký.“
 
 (1602)
+
+</section>

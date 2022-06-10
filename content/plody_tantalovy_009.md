@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Dokud, chtějíce soupeřit s tvým vlasem,
 
 zlato i slunce prohrávají klání,  
@@ -22,3 +24,5 @@ a nenávratně navždy už se sdruží
 s prachem a v nic se rozplyne a zmizí.
 
 (1582)
+
+</section>

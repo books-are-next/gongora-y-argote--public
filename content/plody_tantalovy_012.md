@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 Na smrt dvou vznešených dívek,  
 sester z Córdoby
 
@@ -25,3 +27,5 @@ při vaší kráse a mém pláči věřím,
 — v Blížence vás dvě, a mne ve Vodnáře.“
 
 (1582)
+
+</section>

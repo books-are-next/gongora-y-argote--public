@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 Na bojovou záštitu Madridu,  
 kterou vykázali z města
 
@@ -25,3 +27,5 @@ Na muže silných paží, pevných dříků.
 ba řekl bych až příliš prostořeká!
 
 (1588)
+
+</section>

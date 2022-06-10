@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Když štědřeji už na pole i dále
 
 k lesu, jak den plášť z mlh odkládá v luka,  
@@ -22,3 +24,5 @@ labutě, které hnízda si zde staví
 a peří koupají při našem břehu.
 
 (1583)
+
+</section>

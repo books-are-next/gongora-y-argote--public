@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 Nápis na náhrobek  
 Dominika Greca
 
@@ -25,3 +27,5 @@ slzy pije a vůně, které roní
 strom ze Sáby kůrami pohřebními.
 
 (1615)
+
+</section>

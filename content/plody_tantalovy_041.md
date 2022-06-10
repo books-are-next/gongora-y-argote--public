@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 **Luis de Góngora y Argote  
 Plody Tantalovy**
 
@@ -24,3 +26,5 @@ ISBN 978-80-274-0380-6 (epub)
 ISBN 978-80-274-0381-3 (pdf)
 
 ISBN 978-80-274-0382-0 (prc)
+
+</section>

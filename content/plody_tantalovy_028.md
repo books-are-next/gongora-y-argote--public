@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Vám, plnému nymf a nymfů,
 
 pravím, Tajo, velkolepý  
@@ -49,3 +51,5 @@ až jelenům Ježíšovým
 stanete se napajedly.
 
 (1591)
+
+</section>

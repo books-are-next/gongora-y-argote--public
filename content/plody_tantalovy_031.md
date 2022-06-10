@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 Na narození Pána našeho  
 Ježíše Krista
 
@@ -25,3 +27,5 @@ z nebe na zem, od Boha ke člověku,
 je mnohem dál než od člověka k smrti.
 
 (1600)
+
+</section>

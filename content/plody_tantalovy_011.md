@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Cudnosti čisté chráme zasvěcený
 
 s krásnými základy i zdmi, jež byly  
@@ -22,3 +24,5 @@ slyš vlídně toho, kdo pro tebe v muce
 vzdychá a tvoje ctnosti opěvuje.
 
 (1582)
+
+</section>

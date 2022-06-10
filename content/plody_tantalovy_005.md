@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Na širých vodách řeky
 
 v mém městě, jehož valy  
@@ -76,3 +78,5 @@ mám já důvodů k pláči.
           chci větru vítr dát a vlnám vlny.“
 
 (1581)
+
+</section>

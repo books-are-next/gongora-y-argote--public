@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Za rudou Zorou Slunce pozlacené
 
 východní branou právě procházelo;  
@@ -22,3 +24,5 @@ buď že vše ztichlo, či, to spíše ale,
 že ohluchl a oslepl jsem zcela.
 
 (1582)
+
+</section>

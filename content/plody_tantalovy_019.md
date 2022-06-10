@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Těch sladkých úst, která zvou okusit
 
 vláhy, jež skrze bílé perly kane  
@@ -22,3 +24,5 @@ vždy prchnou tomu, kdo byl jimi vznícen,
 a Amorův jed zůstane jen z nich.
 
 (1584)
+
+</section>

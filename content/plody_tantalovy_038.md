@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 Na paměť smrti a pekla
 
 K hrobkám králů, k prachu plebejských kostí,
@@ -24,3 +26,5 @@ myšlenky mé, nýbrž smrt zničit smrtí
 a nad peklem zvítězit zas jen peklem.
 
 (1612)
+
+</section>

@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Nebi vzdávám díky,
 
 moudrá střízlivosti,  
@@ -115,3 +117,5 @@ Vše má konec: stačí
 snad šest let být hloupý!
 
 (1584)
+
+</section>
