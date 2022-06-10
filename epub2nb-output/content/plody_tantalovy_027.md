@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Pláče děvče, však má
 
 dobré důvody:  
@@ -53,3 +55,5 @@ Srdce, zaplač si,
 však víš, proč asi.
 
 (1590)
+
+</section>

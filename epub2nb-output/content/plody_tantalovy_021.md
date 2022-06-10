@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 Na Córdobu
 
 Ó vale šlechetný, ó věže ladné,
@@ -24,3 +26,5 @@ s tvým válem, věžemi, řekou a nebem
 už nikdy, květe Španěl, vlasti moje!
 
 (1585)
+
+</section>

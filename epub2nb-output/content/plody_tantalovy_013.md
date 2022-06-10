@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Po deset let s mrtvým srdcem
 
 Belerma svůj život pojí;  
@@ -141,3 +143,5 @@ vešel sluha Montesinův
 a začal hned ústy kroutit.
 
 (1582)
+
+</section>

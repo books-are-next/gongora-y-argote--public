@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Tvůj most je, Manzanaresi, až k pláči,
 
 poslyš, co praví ústa prostořeká:  
@@ -22,3 +24,5 @@ jak to, žes zmizel a zas na svět přišel?
 — Osel mě vypil, a dnes vymočil mě.
 
 (1588)
+
+</section>

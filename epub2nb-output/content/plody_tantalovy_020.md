@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Pozorně mi naslouchejte,
 
 kdo jste drbů nedočkaví;  
@@ -69,3 +71,5 @@ budu teď už radši mlčet,
 než si zase něco zkazím.
 
 (1585)
+
+</section>

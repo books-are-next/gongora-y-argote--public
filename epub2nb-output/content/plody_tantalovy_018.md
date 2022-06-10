@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Tak půvabně a různorodě v tónu
 
 ten slavík pláče, že mám podezření,  
@@ -22,3 +24,5 @@ Medúzou svou, protože neměl šanci
 zjevit svůj žal, či jinde hledat štěstí.
 
 (1584)
+
+</section>

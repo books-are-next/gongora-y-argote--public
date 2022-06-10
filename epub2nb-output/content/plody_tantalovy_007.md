@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ##           Jenom ať mi slouží zdraví,
 
           a kdo chce, ten ať se baví!
@@ -61,3 +63,5 @@ do zákusku, ať mi tráví…
           A kdo chce, ten ať se baví!
 
 (1581)
+
+</section>

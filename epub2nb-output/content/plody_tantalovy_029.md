@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 S nožkou raněnou břitem, třebas krátce  
 (ten nástroj bolestí tě k spáse vedl),  
 barvíš mi žalem tvář jak tajný neduh  
@@ -21,3 +23,5 @@ můj hlas by tisíckrát tě volal zpátky,
 a stejněkrát tě ztrácela má touha.
 
 (1595)
+
+</section>

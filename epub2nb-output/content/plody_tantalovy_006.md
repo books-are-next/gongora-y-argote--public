@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Jedna stará dáma,
 
 kterou všichni znají,  
@@ -29,3 +31,5 @@ a tak oplakává,
 co jí tolik schází.
 
 (1581)
+
+</section>

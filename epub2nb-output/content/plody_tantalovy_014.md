@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Že mám čas, dnes zahraju vám
 
 s doprovodem mandolíny  
@@ -125,3 +127,5 @@ Máš křídla zbabělých slepic!
 Víš co? Konečně už zmizni!
 
 (1582)
+
+</section>

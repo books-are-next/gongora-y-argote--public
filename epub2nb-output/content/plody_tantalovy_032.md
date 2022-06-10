@@ -2,6 +2,8 @@
 contentType: prose
 ---
 
+<section>
+
 ## Peníze jsou moc a vláda,
 
                               pravda!
@@ -83,3 +85,5 @@ kdejakou tvrz, hlásku, věž,
                               lež!
 
 (1601)
+
+</section>
