@@ -6,11 +6,11 @@ contentType: prose
 
 ## Peníze jsou moc a vláda,
 
-                              pravda!
+            pravda!
 
 Čím víc vzdycháš, tím víc miluješ,
 
-                              lež!
+            lež!
 
 Ten, kdo šetří, mívá za tři,  
 z peněz neucítíš špínu,  
@@ -19,7 +19,7 @@ získá přes noc výkvět chátry;
 Koruně koruny patří,  
 Majestátu státu vláda,
 
-                              pravda!
+            pravda!
 
 Mít se za pána těch dveří,  
 od kterých je klíčů mnoho,  
@@ -28,7 +28,7 @@ zahnat chmury, pevně věřit,
 nemít za lehčí než peří,  
 co, Marfiro, slibuješ,
 
-                              lež!
+            lež!
 
 Vše lze za peníze koupit,  
 všechno dneska prodává se;  
@@ -37,7 +37,7 @@ válka meč i dusot kopyt,
 na univerzitě klopit  
 za vědomosti se žádá,
 
-                              pravda!
+            pravda!
 
 Valencijcem obtěžkaná  
 panna jdoucí po Madridu,  
@@ -46,7 +46,7 @@ u Toleda voda slaná,
 v Murcii Elvířina brána,  
 Elvíra v Seville též,
 
-                              lež!
+            lež!
 
 Toho, kdo se o své hlásí,  
 k řeči nikdo nepřipustí;  
@@ -55,7 +55,7 @@ v ústech, chce-li stěžovat si;
 kacíř, záhubce své spásy  
 je, kdo s vrchností se hádá,
 
-                              pravda!
+            pravda!
 
 Nemůže být chudý více,  
 třebas je to zazobanec;  
@@ -64,7 +64,7 @@ ale škrobené má límce,
 v kníru vosku na tři svíce,  
 paruku, a pod ní pleš,
 
-                              lež!
+            lež!
 
 Ten, kdo třeba bez důvodu  
 místo peněz kostmi chrastí,  
@@ -73,7 +73,7 @@ v La Platě ať zkusí vodu;
 v jejím stříbrojmenném proudu,  
 dá Bůh, neřekne, že strádá,
 
-                              pravda!
+            pravda!
 
 Matka ctěná v širém kraji  
 má sto dcer, a tyhle dcery  
@@ -82,7 +82,7 @@ znají své na způsob sterý,
 ti hrdinně dobývají  
 kdejakou tvrz, hlásku, věž,
 
-                              lež!
+            lež!
 
 (1601)
 
