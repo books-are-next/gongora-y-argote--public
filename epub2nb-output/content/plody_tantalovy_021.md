@@ -5,9 +5,9 @@ contentType: poetry
 
 <section>
 
-Na Córdobu
+_Na Córdobu_
 
-Ó vale šlechetný, ó věže ladné,
+_Ó vale šlechetný, ó věže ladné,_
 
 jimž velebnost a čest korunu daly!  
 Ó veletoku, andaluský králi  
