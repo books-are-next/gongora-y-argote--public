@@ -1,12 +1,14 @@
 ---
-title: "V\_dvou křišťálových schránách, zleva, zprava,"
-contentType: prose
+hiddenTitle: true
+contentType: poetry
 ---
 
 <section>
 
 Na smrt dvou vznešených dívek,  
 sester z Córdoby
+
+V dvou křišťálových schránách, zleva, zprava,
 
 jsou na podstavcích ze skla uloženy  
 dvě nymfy bez života; uslzený  

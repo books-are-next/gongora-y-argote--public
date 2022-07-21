@@ -1,9 +1,11 @@
 ---
-title: Jak Alcino krásně pláče,
-contentType: prose
+hiddenTitle: true
+contentType: poetry
 ---
 
 <section>
+
+## Jak Alcino krásně pláče,
 
 ten Orfeus od Guadiany,  
 nad neštěstím neodbytným,  

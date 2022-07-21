@@ -1,6 +1,5 @@
 ---
-title: ''
-contentType: prose
+contentType: poetry
 ---
 
 <section>

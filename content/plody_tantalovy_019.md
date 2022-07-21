@@ -1,9 +1,11 @@
 ---
-title: Těch sladkých úst, která zvou okusit
-contentType: prose
+hiddenTitle: true
+contentType: poetry
 ---
 
 <section>
+
+## Těch sladkých úst, která zvou okusit
 
 vláhy, jež skrze bílé perly kane  
 a vyrovná se šťávě požehnané,  

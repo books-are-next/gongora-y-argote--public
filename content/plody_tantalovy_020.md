@@ -1,9 +1,11 @@
 ---
-title: Pozorně mi naslouchejte,
-contentType: prose
+hiddenTitle: true
+contentType: poetry
 ---
 
 <section>
+
+## Pozorně mi naslouchejte,
 
 kdo jste drbů nedočkaví;  
 porto tichem zaplaťte mi  
