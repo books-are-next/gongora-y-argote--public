@@ -1,10 +1,9 @@
 ---
+title: Na mém sladkém inštrumentu
 contentType: prose
 ---
 
 <section>
-
-## Na mém sladkém inštrumentu
 
 každá struna oprátka je;  
 skřipec katovi tak hraje,  

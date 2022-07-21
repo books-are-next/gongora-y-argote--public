@@ -2,8 +2,9 @@
 outputs: meta
 slug: book
 contentType: prose
-languageCode: en
+languageCode: cs
 meta:
+  languageCode: cs
   title: Plody Tantalovy
   identifier: 63f01a80-ff92-4b83-abfd-a6f83377ca29
   author: Luis de Góngora y Argote
@@ -56,6 +57,7 @@ tocBase:
   - id: section-1
     children: []
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

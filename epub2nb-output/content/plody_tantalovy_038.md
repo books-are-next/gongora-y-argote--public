@@ -1,12 +1,11 @@
 ---
+title: "K\_hrobkám králů, k\_prachu plebejských kostí,"
 contentType: prose
 ---
 
 <section>
 
 Na paměť smrti a pekla
-
-K hrobkám králů, k prachu plebejských kostí,
 
 myšlenky mé, bez bázně pronikněte,  
 tam, kde kat dnů, jenž provází nás k Léthé,  

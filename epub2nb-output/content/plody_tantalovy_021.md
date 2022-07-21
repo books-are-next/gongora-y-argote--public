@@ -1,12 +1,11 @@
 ---
+title: "Ó\_vale šlechetný, ó\_věže ladné,"
 contentType: prose
 ---
 
 <section>
 
 Na Córdobu
-
-Ó vale šlechetný, ó věže ladné,
 
 jimž velebnost a čest korunu daly!  
 Ó veletoku, andaluský králi  

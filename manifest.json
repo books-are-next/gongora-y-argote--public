@@ -1,0 +1,906 @@
+{
+  "preview": {
+    "isPreview": false
+  },
+  "title": "Plody Tantalovy",
+  "author": "Luis de Góngora y Argote",
+  "publisher": "Městská knihovna v Praze",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "argote-plody-tantalovy-aa997b0",
+  "revision": "aa997b0",
+  "readingOrder": [
+    "promo.html",
+    "plody_tantalovy_001.html",
+    "plody_tantalovy_002.html",
+    "plody_tantalovy_003.html",
+    "plody_tantalovy_004.html",
+    "plody_tantalovy_005.html",
+    "plody_tantalovy_006.html",
+    "plody_tantalovy_007.html",
+    "plody_tantalovy_008.html",
+    "plody_tantalovy_009.html",
+    "plody_tantalovy_010.html",
+    "plody_tantalovy_011.html",
+    "plody_tantalovy_012.html",
+    "plody_tantalovy_013.html",
+    "plody_tantalovy_014.html",
+    "plody_tantalovy_015.html",
+    "plody_tantalovy_016.html",
+    "plody_tantalovy_017.html",
+    "plody_tantalovy_018.html",
+    "plody_tantalovy_019.html",
+    "plody_tantalovy_020.html",
+    "plody_tantalovy_021.html",
+    "plody_tantalovy_022.html",
+    "plody_tantalovy_023.html",
+    "plody_tantalovy_024.html",
+    "plody_tantalovy_025.html",
+    "plody_tantalovy_026.html",
+    "plody_tantalovy_027.html",
+    "plody_tantalovy_028.html",
+    "plody_tantalovy_029.html",
+    "plody_tantalovy_030.html",
+    "plody_tantalovy_031.html",
+    "plody_tantalovy_032.html",
+    "plody_tantalovy_033.html",
+    "plody_tantalovy_034.html",
+    "plody_tantalovy_035.html",
+    "plody_tantalovy_036.html",
+    "plody_tantalovy_037.html",
+    "plody_tantalovy_038.html",
+    "plody_tantalovy_039.html",
+    "plody_tantalovy_040.html",
+    "plody_tantalovy_041.html"
+  ],
+  "generatedAt": {
+    "date": "Thu Jul 21 2022 08:29:47 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1658392187532
+  },
+  "documents": [
+    {
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 0,
+      "prev": null,
+      "next": "plody_tantalovy_001.html",
+      "toc": []
+    },
+    {
+      "title": "Plody Tantalovy",
+      "file": "plody_tantalovy_001.html",
+      "words": 1,
+      "chars": 0,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 1,
+      "prev": "promo.html",
+      "next": "plody_tantalovy_002.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Plody Tantalovy",
+      "file": "plody_tantalovy_002.html",
+      "words": 1,
+      "chars": 0,
+      "ideas": 1,
+      "role": "chapter",
+      "order": 2,
+      "prev": "plody_tantalovy_001.html",
+      "next": "plody_tantalovy_003.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Plody Tantalovy",
+      "file": "plody_tantalovy_003.html",
+      "words": 10,
+      "chars": 63,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 3,
+      "prev": "plody_tantalovy_002.html",
+      "next": "plody_tantalovy_004.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Plody Tantalovy",
+      "file": "plody_tantalovy_004.html",
+      "words": 94,
+      "chars": 612,
+      "ideas": 7,
+      "role": "chapter",
+      "order": 4,
+      "prev": "plody_tantalovy_003.html",
+      "next": "plody_tantalovy_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Na širých vodách řeky",
+      "file": "plody_tantalovy_005.html",
+      "words": 270,
+      "chars": 1358,
+      "ideas": 61,
+      "role": "chapter",
+      "order": 5,
+      "prev": "plody_tantalovy_004.html",
+      "next": "plody_tantalovy_006.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Na širých vodách řeky",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jedna stará dáma,",
+      "file": "plody_tantalovy_006.html",
+      "words": 75,
+      "chars": 412,
+      "ideas": 25,
+      "role": "chapter",
+      "order": 6,
+      "prev": "plody_tantalovy_005.html",
+      "next": "plody_tantalovy_007.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jedna stará dáma,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jenom ať mi slouží zdraví,",
+      "file": "plody_tantalovy_007.html",
+      "words": 224,
+      "chars": 1092,
+      "ideas": 45,
+      "role": "chapter",
+      "order": 7,
+      "prev": "plody_tantalovy_006.html",
+      "next": "plody_tantalovy_008.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jenom ať mi slouží zdraví,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Za rudou Zorou Slunce pozlacené",
+      "file": "plody_tantalovy_008.html",
+      "words": 79,
+      "chars": 482,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 8,
+      "prev": "plody_tantalovy_007.html",
+      "next": "plody_tantalovy_009.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Za rudou Zorou Slunce pozlacené",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Dokud, chtějíce soupeřit s tvým vlasem,",
+      "file": "plody_tantalovy_009.html",
+      "words": 90,
+      "chars": 482,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 9,
+      "prev": "plody_tantalovy_008.html",
+      "next": "plody_tantalovy_010.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Dokud, chtějíce soupeřit s tvým vlasem,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ó tekutého živlu světlá slávo,",
+      "file": "plody_tantalovy_010.html",
+      "words": 90,
+      "chars": 486,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 10,
+      "prev": "plody_tantalovy_009.html",
+      "next": "plody_tantalovy_011.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ó tekutého živlu světlá slávo,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Cudnosti čisté chráme zasvěcený",
+      "file": "plody_tantalovy_011.html",
+      "words": 80,
+      "chars": 469,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 11,
+      "prev": "plody_tantalovy_010.html",
+      "next": "plody_tantalovy_012.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Cudnosti čisté chráme zasvěcený",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V dvou křišťálových schránách, zleva, zprava,",
+      "file": "plody_tantalovy_012.html",
+      "words": 92,
+      "chars": 527,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 12,
+      "prev": "plody_tantalovy_011.html",
+      "next": "plody_tantalovy_013.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V dvou křišťálových schránách, zleva, zprava,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Po deset let s mrtvým srdcem",
+      "file": "plody_tantalovy_013.html",
+      "words": 598,
+      "chars": 3302,
+      "ideas": 137,
+      "role": "chapter",
+      "order": 13,
+      "prev": "plody_tantalovy_012.html",
+      "next": "plody_tantalovy_014.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Po deset let s mrtvým srdcem",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Že mám čas, dnes zahraju vám",
+      "file": "plody_tantalovy_014.html",
+      "words": 546,
+      "chars": 2993,
+      "ideas": 121,
+      "role": "chapter",
+      "order": 14,
+      "prev": "plody_tantalovy_013.html",
+      "next": "plody_tantalovy_015.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Že mám čas, dnes zahraju vám",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Když štědřeji už na pole i dále",
+      "file": "plody_tantalovy_015.html",
+      "words": 93,
+      "chars": 485,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 15,
+      "prev": "plody_tantalovy_014.html",
+      "next": "plody_tantalovy_016.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Když štědřeji už na pole i dále",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jak by sloň od Gangy, jež má tok širý,",
+      "file": "plody_tantalovy_016.html",
+      "words": 90,
+      "chars": 492,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 16,
+      "prev": "plody_tantalovy_015.html",
+      "next": "plody_tantalovy_017.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jak by sloň od Gangy, jež má tok širý,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nebi vzdávám díky,",
+      "file": "plody_tantalovy_017.html",
+      "words": 380,
+      "chars": 2089,
+      "ideas": 111,
+      "role": "chapter",
+      "order": 17,
+      "prev": "plody_tantalovy_016.html",
+      "next": "plody_tantalovy_018.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nebi vzdávám díky,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tak půvabně a různorodě v tónu",
+      "file": "plody_tantalovy_018.html",
+      "words": 90,
+      "chars": 496,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 18,
+      "prev": "plody_tantalovy_017.html",
+      "next": "plody_tantalovy_019.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tak půvabně a různorodě v tónu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Těch sladkých úst, která zvou okusit",
+      "file": "plody_tantalovy_019.html",
+      "words": 83,
+      "chars": 466,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 19,
+      "prev": "plody_tantalovy_018.html",
+      "next": "plody_tantalovy_020.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Těch sladkých úst, která zvou okusit",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pozorně mi naslouchejte,",
+      "file": "plody_tantalovy_020.html",
+      "words": 292,
+      "chars": 1553,
+      "ideas": 65,
+      "role": "chapter",
+      "order": 20,
+      "prev": "plody_tantalovy_019.html",
+      "next": "plody_tantalovy_021.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pozorně mi naslouchejte,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ó vale šlechetný, ó věže ladné,",
+      "file": "plody_tantalovy_021.html",
+      "words": 92,
+      "chars": 488,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 21,
+      "prev": "plody_tantalovy_020.html",
+      "next": "plody_tantalovy_022.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ó vale šlechetný, ó věže ladné,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Potřikrát již Boréas svlékl stromy",
+      "file": "plody_tantalovy_022.html",
+      "words": 91,
+      "chars": 492,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 22,
+      "prev": "plody_tantalovy_021.html",
+      "next": "plody_tantalovy_023.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Potřikrát již Boréas svlékl stromy",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Nešťastný a zarmoucený",
+      "file": "plody_tantalovy_023.html",
+      "words": 329,
+      "chars": 1760,
+      "ideas": 73,
+      "role": "chapter",
+      "order": 23,
+      "prev": "plody_tantalovy_022.html",
+      "next": "plody_tantalovy_024.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Nešťastný a zarmoucený",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "V Oranu svým ostrým kopím",
+      "file": "plody_tantalovy_024.html",
+      "words": 226,
+      "chars": 1252,
+      "ideas": 53,
+      "role": "chapter",
+      "order": 24,
+      "prev": "plody_tantalovy_023.html",
+      "next": "plody_tantalovy_025.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "V Oranu svým ostrým kopím",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "— Jste děravá, má záštito a paní.",
+      "file": "plody_tantalovy_025.html",
+      "words": 113,
+      "chars": 566,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 25,
+      "prev": "plody_tantalovy_024.html",
+      "next": "plody_tantalovy_026.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "— Jste děravá, má záštito a paní.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Tvůj most je, Manzanaresi, až k pláči,",
+      "file": "plody_tantalovy_026.html",
+      "words": 105,
+      "chars": 519,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 26,
+      "prev": "plody_tantalovy_025.html",
+      "next": "plody_tantalovy_027.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Tvůj most je, Manzanaresi, až k pláči,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Pláče děvče, však má",
+      "file": "plody_tantalovy_027.html",
+      "words": 146,
+      "chars": 776,
+      "ideas": 45,
+      "role": "chapter",
+      "order": 27,
+      "prev": "plody_tantalovy_026.html",
+      "next": "plody_tantalovy_028.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Pláče děvče, však má",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Vám, plnému nymf a nymfů,",
+      "file": "plody_tantalovy_028.html",
+      "words": 177,
+      "chars": 1052,
+      "ideas": 45,
+      "role": "chapter",
+      "order": 28,
+      "prev": "plody_tantalovy_027.html",
+      "next": "plody_tantalovy_029.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Vám, plnému nymf a nymfů,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "S nožkou raněnou břitem, třebas krátce (ten nástroj bolestí tě k spáse vedl), barvíš mi žalem tvář jak tajný neduh a na sníh červánky vyléváš sladce.",
+      "file": "plody_tantalovy_029.html",
+      "words": 97,
+      "chars": 520,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 29,
+      "prev": "plody_tantalovy_028.html",
+      "next": "plody_tantalovy_030.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "S nožkou raněnou břitem, třebas krátce (ten nástroj bolestí tě k spáse vedl), barvíš mi žalem tvář jak tajný neduh a na sníh červánky vyléváš sladce.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Na mém sladkém inštrumentu",
+      "file": "plody_tantalovy_030.html",
+      "words": 499,
+      "chars": 2715,
+      "ideas": 111,
+      "role": "chapter",
+      "order": 30,
+      "prev": "plody_tantalovy_029.html",
+      "next": "plody_tantalovy_031.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Na mém sladkém inštrumentu",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Na kříži viset s probodnutou hrudí",
+      "file": "plody_tantalovy_031.html",
+      "words": 102,
+      "chars": 523,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 31,
+      "prev": "plody_tantalovy_030.html",
+      "next": "plody_tantalovy_032.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Na kříži viset s probodnutou hrudí",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Peníze jsou moc a vláda,",
+      "file": "plody_tantalovy_032.html",
+      "words": 231,
+      "chars": 1284,
+      "ideas": 61,
+      "role": "chapter",
+      "order": 32,
+      "prev": "plody_tantalovy_031.html",
+      "next": "plody_tantalovy_033.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Peníze jsou moc a vláda,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Jak Alcino krásně pláče,",
+      "file": "plody_tantalovy_033.html",
+      "words": 131,
+      "chars": 729,
+      "ideas": 29,
+      "role": "chapter",
+      "order": 33,
+      "prev": "plody_tantalovy_032.html",
+      "next": "plody_tantalovy_034.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Jak Alcino krásně pláče,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ze sítin Duera pastýřka má smělá",
+      "file": "plody_tantalovy_034.html",
+      "words": 90,
+      "chars": 470,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 34,
+      "prev": "plody_tantalovy_033.html",
+      "next": "plody_tantalovy_035.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ze sítin Duera pastýřka má smělá",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "O Thisbé a Pyramovi, pokud mi v tom nezabrání kytara má, vám teď povím tklivý příběh věrné lásky. Vím, ve které zemi žila, o rodičích nemám zprávy; ježto víte tolik, co já, není důvod k zdržování. Bylať Thisbé obraz v stříbře vyrytý i rámovaný, šperk zlatý a křišťálový, rudý rubín pod smaragdy. Pozdravy zlata a duše, samý prsten — její vlasy; čelo zářilo jak perleť, jak skvost sluncem zraňovaný. Radost byly její oči, pohled nadějí byl sladký, jakou odívá se jaro o svých nejkrásnějších svátcích. Její ústa — jemný šarlat, v nějž se bílé perly halí, aby jako samet zlato šarlat tyto perly chránil. Od hlavy až k patě sypou po růžích rozkvetlý jasmín tři Grácie provázené Venuší se synkem krásným. Věkem — viděli jste zoubky — pouhé zdání slečny zatím; dětské střevíčky má sice, ale již chování dámy. Dobrý stařík byl pan otec; matka bečce spíš než kádi podobná, prostá, leč milá, sud dýňové marmelády. Dělali jí pomyšlení: Thisbička si ke snídani přeje mlíčko od labutí? Hned splníme její přání! Jaký div, že kolem dívky toho tolik nadělají, když je duší těch čtyř očí a dvě duše zrak v ní mají? Stejně jak otcovy paže také suknice své matky za kolébku měla v dětství, za polštář pak v útlém mládí.",
+      "file": "plody_tantalovy_035.html",
+      "words": 212,
+      "chars": 1207,
+      "ideas": 2,
+      "role": "chapter",
+      "order": 35,
+      "prev": "plody_tantalovy_034.html",
+      "next": "plody_tantalovy_036.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "O Thisbé a Pyramovi, pokud mi v tom nezabrání kytara má, vám teď povím tklivý příběh věrné lásky. Vím, ve které zemi žila, o rodičích nemám zprávy; ježto víte tolik, co já, není důvod k zdržování. Bylať Thisbé obraz v stříbře vyrytý i rámovaný, šperk zlatý a křišťálový, rudý rubín pod smaragdy. Pozdravy zlata a duše, samý prsten — její vlasy; čelo zářilo jak perleť, jak skvost sluncem zraňovaný. Radost byly její oči, pohled nadějí byl sladký, jakou odívá se jaro o svých nejkrásnějších svátcích. Její ústa — jemný šarlat, v nějž se bílé perly halí, aby jako samet zlato šarlat tyto perly chránil. Od hlavy až k patě sypou po růžích rozkvetlý jasmín tři Grácie provázené Venuší se synkem krásným. Věkem — viděli jste zoubky — pouhé zdání slečny zatím; dětské střevíčky má sice, ale již chování dámy. Dobrý stařík byl pan otec; matka bečce spíš než kádi podobná, prostá, leč milá, sud dýňové marmelády. Dělali jí pomyšlení: Thisbička si ke snídani přeje mlíčko od labutí? Hned splníme její přání! Jaký div, že kolem dívky toho tolik nadělají, když je duší těch čtyř očí a dvě duše zrak v ní mají? Stejně jak otcovy paže také suknice své matky za kolébku měla v dětství, za polštář pak v útlém mládí.",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Květy rozmarýny v lukách,",
+      "file": "plody_tantalovy_036.html",
+      "words": 128,
+      "chars": 731,
+      "ideas": 33,
+      "role": "chapter",
+      "order": 36,
+      "prev": "plody_tantalovy_035.html",
+      "next": "plody_tantalovy_037.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Květy rozmarýny v lukách,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Ach námořníku na královském dvoře,",
+      "file": "plody_tantalovy_037.html",
+      "words": 81,
+      "chars": 466,
+      "ideas": 15,
+      "role": "chapter",
+      "order": 37,
+      "prev": "plody_tantalovy_036.html",
+      "next": "plody_tantalovy_038.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Ach námořníku na královském dvoře,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "K hrobkám králů, k prachu plebejských kostí,",
+      "file": "plody_tantalovy_038.html",
+      "words": 91,
+      "chars": 534,
+      "ideas": 16,
+      "role": "chapter",
+      "order": 38,
+      "prev": "plody_tantalovy_037.html",
+      "next": "plody_tantalovy_039.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "K hrobkám králů, k prachu plebejských kostí,",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Poutníku, tímto uhlazeným stylem",
+      "file": "plody_tantalovy_039.html",
+      "words": 86,
+      "chars": 506,
+      "ideas": 17,
+      "role": "chapter",
+      "order": 39,
+      "prev": "plody_tantalovy_038.html",
+      "next": "plody_tantalovy_040.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": "Poutníku, tímto uhlazeným stylem",
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Plody Tantalovy",
+      "file": "plody_tantalovy_040.html",
+      "words": 56,
+      "chars": 388,
+      "ideas": 3,
+      "role": "chapter",
+      "order": 40,
+      "prev": "plody_tantalovy_039.html",
+      "next": "plody_tantalovy_041.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Plody Tantalovy",
+      "file": "plody_tantalovy_041.html",
+      "words": 50,
+      "chars": 321,
+      "ideas": 12,
+      "role": "chapter",
+      "order": 41,
+      "prev": "plody_tantalovy_040.html",
+      "next": null,
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    }
+  ],
+  "totals": {
+    "all": {
+      "words": 6417,
+      "chars": 35212,
+      "ideas": 1339
+    },
+    "chapters": {
+      "words": 6411,
+      "chars": 35158,
+      "ideas": 1336
+    }
+  }
+}
