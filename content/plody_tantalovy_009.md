@@ -1,11 +1,10 @@
 ---
+title: "Dokud, chtějíce soupeřit s\_tvým vlasem,"
 hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
-
-## Dokud, chtějíce soupeřit s tvým vlasem,
 
 zlato i slunce prohrávají klání,  
 dokud se před tvým jasným čelem sklání  

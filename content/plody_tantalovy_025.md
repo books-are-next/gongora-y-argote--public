@@ -1,4 +1,5 @@
 ---
+title: "— Jste děravá, má záštito a\_paní\\."
 hiddenTitle: true
 contentType: poetry
 ---
@@ -7,8 +8,6 @@ contentType: poetry
 
 Na bojovou záštitu Madridu,  
 kterou vykázali z města
-
-_— Jste děravá, má záštito a paní._
 
 — Protože Bůh tak chtěl, vojáku milý.  
 — Jak se vám daří?         — Dnes mě vyrazili,  

@@ -1,11 +1,10 @@
 ---
+title: "Květy rozmarýny v\_lukách,"
 hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
-
-## Květy rozmarýny v lukách,
 
 Lízo, děvče mé,
 

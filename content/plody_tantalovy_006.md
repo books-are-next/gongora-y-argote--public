@@ -1,11 +1,10 @@
 ---
+title: Jedna stará dáma,
 hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
-
-## Jedna stará dáma,
 
 kterou všichni znají,  
 přítelkyně dívek,  
