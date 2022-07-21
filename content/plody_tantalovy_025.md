@@ -8,7 +8,7 @@ contentType: poetry
 Na bojovou záštitu Madridu,  
 kterou vykázali z města
 
-— Jste děravá, má záštito a paní.
+_— Jste děravá, má záštito a paní._
 
 — Protože Bůh tak chtěl, vojáku milý.  
 — Jak se vám daří?         — Dnes mě vyrazili,  
