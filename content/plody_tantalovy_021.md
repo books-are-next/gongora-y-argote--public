@@ -1,6 +1,5 @@
 ---
 title: "Ó\_vale šlechetný, ó\_věže ladné,"
-hiddenTitle: true
 contentType: poetry
 ---
 

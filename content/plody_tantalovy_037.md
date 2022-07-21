@@ -1,6 +1,5 @@
 ---
 title: Ach námořníku na královském dvoře,
-hiddenTitle: true
 contentType: poetry
 ---
 

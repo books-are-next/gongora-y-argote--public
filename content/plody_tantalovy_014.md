@@ -1,6 +1,5 @@
 ---
 title: Že mám čas, dnes zahraju vám
-hiddenTitle: true
 contentType: poetry
 ---
 

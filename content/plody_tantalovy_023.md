@@ -1,6 +1,5 @@
 ---
 title: "Nešťastný a\_zarmoucený"
-hiddenTitle: true
 contentType: poetry
 ---
 

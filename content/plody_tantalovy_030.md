@@ -1,6 +1,5 @@
 ---
 title: Na mém sladkém inštrumentu
-hiddenTitle: true
 contentType: poetry
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Za rudou Zorou Slunce pozlacené
-hiddenTitle: true
 contentType: poetry
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Jedna stará dáma,
-hiddenTitle: true
 contentType: poetry
 ---
 

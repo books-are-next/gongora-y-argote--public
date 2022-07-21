@@ -1,6 +1,5 @@
 ---
 title: "Peníze jsou moc a\_vláda,"
-hiddenTitle: true
 contentType: poetry
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Pláče děvče, však má
-hiddenTitle: true
 contentType: poetry
 ---
 

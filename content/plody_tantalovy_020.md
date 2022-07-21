@@ -1,6 +1,5 @@
 ---
 title: Pozorně mi naslouchejte,
-hiddenTitle: true
 contentType: poetry
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: "Tak půvabně a\_různorodě v\_tónu"
-hiddenTitle: true
 contentType: poetry
 ---
 

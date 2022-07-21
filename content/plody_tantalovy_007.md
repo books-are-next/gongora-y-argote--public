@@ -1,6 +1,5 @@
 ---
 title: "\_\_\_\_\_\_\_\_\_\_Jenom ať mi slouží zdraví,"
-hiddenTitle: true
 contentType: poetry
 ---
 

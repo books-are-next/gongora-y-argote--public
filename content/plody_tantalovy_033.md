@@ -1,6 +1,5 @@
 ---
 title: Jak Alcino krásně pláče,
-hiddenTitle: true
 contentType: poetry
 ---
 

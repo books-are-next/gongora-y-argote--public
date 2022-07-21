@@ -1,6 +1,5 @@
 ---
 title: Cudnosti čisté chráme zasvěcený
-hiddenTitle: true
 contentType: poetry
 ---
 

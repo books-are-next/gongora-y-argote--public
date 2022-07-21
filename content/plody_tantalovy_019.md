@@ -1,6 +1,5 @@
 ---
 title: Těch sladkých úst, která zvou okusit
-hiddenTitle: true
 contentType: poetry
 ---
 

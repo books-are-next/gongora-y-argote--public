@@ -1,6 +1,5 @@
 ---
 title: "— Jste děravá, má záštito a\_paní\\."
-hiddenTitle: true
 contentType: poetry
 ---
 

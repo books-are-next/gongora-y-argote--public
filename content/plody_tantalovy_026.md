@@ -1,6 +1,5 @@
 ---
 title: "Tvůj most je, Manzanaresi, až k\_pláči,"
-hiddenTitle: true
 contentType: poetry
 ---
 

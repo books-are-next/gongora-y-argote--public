@@ -1,6 +1,5 @@
 ---
 title: Na širých vodách řeky
-hiddenTitle: true
 contentType: poetry
 ---
 
