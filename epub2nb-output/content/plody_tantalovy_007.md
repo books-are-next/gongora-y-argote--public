@@ -1,11 +1,13 @@
 ---
-title: "\_\_\_\_\_\_\_\_\_\_Jenom ať mi slouží zdraví,"
-contentType: prose
+hiddenTitle: true
+contentType: poetry
 ---
 
 <section>
 
-a kdo chce, ten ať se baví!
+##           Jenom ať mi slouží zdraví,
+
+          a kdo chce, ten ať se baví!
 
 Jen ať starají se jiní  
 o svět a o to, kdo vládne;  

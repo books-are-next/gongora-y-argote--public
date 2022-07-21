@@ -1,9 +1,11 @@
 ---
-title: Potřikrát již Boréas svlékl stromy
-contentType: prose
+hiddenTitle: true
+contentType: poetry
 ---
 
 <section>
+
+## Potřikrát již Boréas svlékl stromy
 
 — všem rostlinám tak zelenou čest loupí —  
 a Foibos vystlal lože Európy  

@@ -1,12 +1,14 @@
 ---
-title: Poutníku, tímto uhlazeným stylem
-contentType: prose
+hiddenTitle: true
+contentType: poetry
 ---
 
 <section>
 
 Nápis na náhrobek  
 Dominika Greca
+
+Poutníku, tímto uhlazeným stylem
 
 zde pevný zámek, porfyr blyskotavý,  
 upírá světu štětec rozjímavý,  

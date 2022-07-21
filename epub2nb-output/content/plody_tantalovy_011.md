@@ -1,9 +1,11 @@
 ---
-title: Cudnosti čisté chráme zasvěcený
-contentType: prose
+hiddenTitle: true
+contentType: poetry
 ---
 
 <section>
+
+## Cudnosti čisté chráme zasvěcený
 
 s krásnými základy i zdmi, jež byly  
 z perletí jen a z alabastrů bílých  

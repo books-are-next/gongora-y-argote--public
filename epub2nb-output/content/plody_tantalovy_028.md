@@ -1,9 +1,11 @@
 ---
-title: "Vám, plnému nymf a\_nymfů,"
-contentType: prose
+hiddenTitle: true
+contentType: poetry
 ---
 
 <section>
+
+## Vám, plnému nymf a nymfů,
 
 pravím, Tajo, velkolepý  
 kropiči žíznivých kdoulí,  

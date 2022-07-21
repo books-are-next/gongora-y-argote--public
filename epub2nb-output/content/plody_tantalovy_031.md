@@ -1,12 +1,14 @@
 ---
-title: "Na kříži viset s\_probodnutou hrudí"
-contentType: prose
+hiddenTitle: true
+contentType: poetry
 ---
 
 <section>
 
 Na narození Pána našeho  
 Ježíše Krista
+
+Na kříži viset s probodnutou hrudí
 
 a s trny vetknutými v obě skráně,  
 ranami za nás platit naše daně  

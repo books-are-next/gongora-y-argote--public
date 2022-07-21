@@ -1,9 +1,11 @@
 ---
-title: Jak by sloň od Gangy, jež má tok širý,
-contentType: prose
+hiddenTitle: true
+contentType: poetry
 ---
 
 <section>
+
+## Jak by sloň od Gangy, jež má tok širý,
 
 jak z Paru bílý mramor, eben tmavý,  
 jak třpytné zlato nebo jantar plavý,  
