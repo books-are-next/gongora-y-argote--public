@@ -1,6 +1,5 @@
 ---
 title: "Po deset let s\_mrtvým srdcem"
-hiddenTitle: true
 contentType: poetry
 ---
 

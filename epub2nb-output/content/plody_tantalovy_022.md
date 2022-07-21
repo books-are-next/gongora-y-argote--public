@@ -1,6 +1,5 @@
 ---
 title: Potřikrát již Boréas svlékl stromy
-hiddenTitle: true
 contentType: poetry
 ---
 

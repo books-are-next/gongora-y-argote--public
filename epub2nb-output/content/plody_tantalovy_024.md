@@ -1,6 +1,5 @@
 ---
 title: "V\_Oranu svým ostrým kopím"
-hiddenTitle: true
 contentType: poetry
 ---
 

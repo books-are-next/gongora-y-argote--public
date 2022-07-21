@@ -1,6 +1,5 @@
 ---
 title: "Když štědřeji už na pole i\_dále"
-hiddenTitle: true
 contentType: poetry
 ---
 

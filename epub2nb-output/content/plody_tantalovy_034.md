@@ -1,6 +1,5 @@
 ---
 title: Ze sítin Duera pastýřka má smělá
-hiddenTitle: true
 contentType: poetry
 ---
 

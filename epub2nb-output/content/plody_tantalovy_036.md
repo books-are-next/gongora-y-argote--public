@@ -1,6 +1,5 @@
 ---
 title: "Květy rozmarýny v\_lukách,"
-hiddenTitle: true
 contentType: poetry
 ---
 

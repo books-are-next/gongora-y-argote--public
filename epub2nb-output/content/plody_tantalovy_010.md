@@ -1,6 +1,5 @@
 ---
 title: "Ó\_tekutého živlu světlá slávo,"
-hiddenTitle: true
 contentType: poetry
 ---
 

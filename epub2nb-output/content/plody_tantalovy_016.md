@@ -1,6 +1,5 @@
 ---
 title: Jak by sloň od Gangy, jež má tok širý,
-hiddenTitle: true
 contentType: poetry
 ---
 

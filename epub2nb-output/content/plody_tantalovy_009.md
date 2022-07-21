@@ -1,6 +1,5 @@
 ---
 title: "Dokud, chtějíce soupeřit s\_tvým vlasem,"
-hiddenTitle: true
 contentType: poetry
 ---
 

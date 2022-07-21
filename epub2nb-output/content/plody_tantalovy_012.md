@@ -1,6 +1,5 @@
 ---
 title: "V\_dvou křišťálových schránách, zleva, zprava,"
-hiddenTitle: true
 contentType: poetry
 ---
 

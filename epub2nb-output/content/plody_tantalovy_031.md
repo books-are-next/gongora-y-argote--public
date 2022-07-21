@@ -1,6 +1,5 @@
 ---
 title: "Na kříži viset s\_probodnutou hrudí"
-hiddenTitle: true
 contentType: poetry
 ---
 

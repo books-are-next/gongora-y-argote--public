@@ -1,6 +1,5 @@
 ---
 title: Poutníku, tímto uhlazeným stylem
-hiddenTitle: true
 contentType: poetry
 ---
 

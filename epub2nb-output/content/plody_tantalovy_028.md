@@ -1,6 +1,5 @@
 ---
 title: "Vám, plnému nymf a\_nymfů,"
-hiddenTitle: true
 contentType: poetry
 ---
 

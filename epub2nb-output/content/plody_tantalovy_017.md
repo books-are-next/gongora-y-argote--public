@@ -1,6 +1,5 @@
 ---
 title: Nebi vzdávám díky,
-hiddenTitle: true
 contentType: poetry
 ---
 

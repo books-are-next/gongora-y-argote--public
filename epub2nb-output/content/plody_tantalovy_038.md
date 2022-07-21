@@ -1,6 +1,5 @@
 ---
 title: "K\_hrobkám králů, k\_prachu plebejských kostí,"
-hiddenTitle: true
 contentType: poetry
 ---
 
