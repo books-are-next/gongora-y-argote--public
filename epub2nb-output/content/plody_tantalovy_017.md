@@ -1,11 +1,10 @@
 ---
+title: Nebi vzdávám díky,
 hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
-
-## Nebi vzdávám díky,
 
 moudrá střízlivosti,  
 že tvůj včasný zásah  

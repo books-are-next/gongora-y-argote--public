@@ -1,11 +1,10 @@
 ---
+title: Za rudou Zorou Slunce pozlacené
 hiddenTitle: true
 contentType: poetry
 ---
 
 <section>
-
-## Za rudou Zorou Slunce pozlacené
 
 východní branou právě procházelo;  
 Jitřenka, květy zrůžovělé čelo,  
