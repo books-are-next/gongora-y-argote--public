@@ -1,10 +1,9 @@
 ---
+title: Pláče děvče, však má
 contentType: prose
 ---
 
 <section>
-
-## Pláče děvče, však má
 
 dobré důvody:  
 hoch jí zmizel, jak když  

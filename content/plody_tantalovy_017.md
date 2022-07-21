@@ -1,10 +1,9 @@
 ---
+title: Nebi vzdávám díky,
 contentType: prose
 ---
 
 <section>
-
-## Nebi vzdávám díky,
 
 moudrá střízlivosti,  
 že tvůj včasný zásah  

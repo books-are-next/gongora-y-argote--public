@@ -1,13 +1,9 @@
 ---
+title: "S\_nožkou raněnou břitem, třebas krátce (ten nástroj bolestí tě k\_spáse vedl), barvíš mi žalem tvář jak tajný neduh a\_na sníh červánky vyléváš sladce\\."
 contentType: prose
 ---
 
 <section>
-
-S nožkou raněnou břitem, třebas krátce  
-(ten nástroj bolestí tě k spáse vedl),  
-barvíš mi žalem tvář jak tajný neduh  
-a na sníh červánky vyléváš sladce.
 
 Bojím se (miluji-li, musím bát se)  
 smutného konce, že ztiší tvou bědu  
