@@ -6,10 +6,13 @@
       "identifier": "63f01a80-ff92-4b83-abfd-a6f83377ca29",
       "author": "Luis de Góngora y Argote",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2020-01-23T00:00:00.000Z"
+      "modified": "2020-01-23T00:00:00.000Z",
+      "contentType": "poetry",
+      "publisherShort": "mkp",
+      "edition": "poezie"
     },
     "elements": {
-      "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL\nmlpversenadpis \nmlpversenadpisii ",
+      "title": "MLP.uroven1.*\nMLP.uroven2.kapitola\nMLP.uroven2.basne\nMLP.uroven2.kapitola.dopis\nMLP.uroven2.kapitola.upraven\ne.booknadpis2\ne.booknadpis2bezodstrnkovn\ne.booknadpis2probasne\ne.bookobsah\nheading.id.2\nmlpuroven1.*\nmlpuroven2.*\nMLP.UROVEN2.BASNE.II\nMLP.UROVEN2.KAPITOLA\nMLP.UROVEN2.PARAL\nMLP.uroven1.PARAL",
       "subtitle": "",
       "h2": "MLP.uroven3.nadpis.*\nMLP.UROVEN3.*\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasne\nmlpuroven3.*",
       "h3": "MLP.uroven4.nadpis\ne.booknadpis3bezodstrankovani\ne.booknadpis3probasnebezodstrankovani",
@@ -39,45 +42,49 @@
             "filename": "plody_tantalovy_001.md",
             "xhtml": "plody_tantalovy_001.html",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "plody_tantalovy_002.md",
             "xhtml": "plody_tantalovy_002.html",
             "id": 1,
-            "role": "chapter",
+            "role": "promo",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "plody_tantalovy_003.md",
             "xhtml": "plody_tantalovy_003.html",
             "id": 2,
-            "role": "chapter",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "plody_tantalovy_004.md",
             "xhtml": "plody_tantalovy_004.html",
             "id": 3,
-            "role": "chapter",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           },
           {
             "filename": "plody_tantalovy_005.md",
@@ -88,7 +95,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Na širých vodách řeky ..."
           },
           {
             "filename": "plody_tantalovy_006.md",
@@ -99,7 +108,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Jedna stará dáma ..."
           },
           {
             "filename": "plody_tantalovy_007.md",
@@ -110,7 +121,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Jenom ať mi slouží zdraví ..."
           },
           {
             "filename": "plody_tantalovy_008.md",
@@ -121,7 +134,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Za rudou Zorou Slunce pozlacené ..."
           },
           {
             "filename": "plody_tantalovy_009.md",
@@ -132,7 +147,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Dokud, chtějíce soupeřit s tvým vlasem ..."
           },
           {
             "filename": "plody_tantalovy_010.md",
@@ -143,7 +160,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Ó tekutého živlu světlá slávo ..."
           },
           {
             "filename": "plody_tantalovy_011.md",
@@ -154,7 +173,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Cudnosti čisté chráme zasvěcený ..."
           },
           {
             "filename": "plody_tantalovy_012.md",
@@ -165,7 +186,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "V dvou křišťálových schránách, zleva, zprava ..."
           },
           {
             "filename": "plody_tantalovy_013.md",
@@ -176,7 +199,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Po deset let s mrtvým srdcem ..."
           },
           {
             "filename": "plody_tantalovy_014.md",
@@ -187,7 +212,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Že mám čas, dnes zahraju vám ..."
           },
           {
             "filename": "plody_tantalovy_015.md",
@@ -198,7 +225,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Když štědřeji už na pole i dále ..."
           },
           {
             "filename": "plody_tantalovy_016.md",
@@ -209,7 +238,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Jak by sloň od Gangy, jež má tok širý ..."
           },
           {
             "filename": "plody_tantalovy_017.md",
@@ -220,7 +251,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Nebi vzdávám díky ..."
           },
           {
             "filename": "plody_tantalovy_018.md",
@@ -231,7 +264,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Tak půvabně a různorodě v tónu ..."
           },
           {
             "filename": "plody_tantalovy_019.md",
@@ -242,7 +277,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Těch sladkých úst, která zvou okusit ..."
           },
           {
             "filename": "plody_tantalovy_020.md",
@@ -253,7 +290,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Pozorně mi naslouchejte ..."
           },
           {
             "filename": "plody_tantalovy_021.md",
@@ -264,7 +303,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Ó vale šlechetný, ó věže ladné ..."
           },
           {
             "filename": "plody_tantalovy_022.md",
@@ -275,7 +316,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Potřikrát již Boréas svlékl stromy ..."
           },
           {
             "filename": "plody_tantalovy_023.md",
@@ -286,7 +329,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Nešťastný a zarmoucený ..."
           },
           {
             "filename": "plody_tantalovy_024.md",
@@ -297,7 +342,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "V Oranu svým ostrým kopím ..."
           },
           {
             "filename": "plody_tantalovy_025.md",
@@ -308,7 +355,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Jste děravá, má záštito a paní ..."
           },
           {
             "filename": "plody_tantalovy_026.md",
@@ -319,7 +368,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Tvůj most je, Manzanaresi, až k pláči ..."
           },
           {
             "filename": "plody_tantalovy_027.md",
@@ -330,7 +381,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Pláče děvče, však má ..."
           },
           {
             "filename": "plody_tantalovy_028.md",
@@ -341,7 +394,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Vám, plnému nymf a nymfů ..."
           },
           {
             "filename": "plody_tantalovy_029.md",
@@ -352,7 +407,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "S nožkou raněnou břitem ..."
           },
           {
             "filename": "plody_tantalovy_030.md",
@@ -363,7 +420,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Na mém sladkém inštrumentu ..."
           },
           {
             "filename": "plody_tantalovy_031.md",
@@ -374,7 +433,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Na kříži viset s probodnutou hrudí ..."
           },
           {
             "filename": "plody_tantalovy_032.md",
@@ -385,7 +446,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Peníze jsou moc a vláda ..."
           },
           {
             "filename": "plody_tantalovy_033.md",
@@ -396,7 +459,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Jak Alcino krásně pláče ..."
           },
           {
             "filename": "plody_tantalovy_034.md",
@@ -407,7 +472,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Ze sítin Duera pastýřka má smělá ..."
           },
           {
             "filename": "plody_tantalovy_035.md",
@@ -418,7 +485,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "O Thisbé a Pyramovi ..."
           },
           {
             "filename": "plody_tantalovy_036.md",
@@ -429,7 +498,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Květy rozmarýny v lukách ..."
           },
           {
             "filename": "plody_tantalovy_037.md",
@@ -440,7 +511,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Ach námořníku na královském dvoře ..."
           },
           {
             "filename": "plody_tantalovy_038.md",
@@ -451,7 +524,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "K hrobkám králů, k prachu plebejských kostí ..."
           },
           {
             "filename": "plody_tantalovy_039.md",
@@ -462,7 +537,9 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Poutníku, tímto uhlazeným stylem ..."
           },
           {
             "filename": "plody_tantalovy_040.md",
@@ -473,18 +550,21 @@
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": true,
+            "children": [],
+            "title": "Poděkování"
           },
           {
             "filename": "plody_tantalovy_041.md",
             "xhtml": "plody_tantalovy_041.html",
             "id": 40,
-            "role": "chapter",
+            "role": "about",
             "listType": "plain",
             "inToc": true,
             "hungry": false,
             "devoured": false,
-            "hiddenTitle": false
+            "hiddenTitle": false,
+            "children": []
           }
         ]
       }
@@ -525,211 +605,211 @@
         "xhtml": "plody_tantalovy_004.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Na širých vodách řeky",
         "subtitleSuggest": "",
         "filename": "plody_tantalovy_005.md",
         "xhtml": "plody_tantalovy_005.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Jedna stará dáma,",
         "subtitleSuggest": "",
         "filename": "plody_tantalovy_006.md",
         "xhtml": "plody_tantalovy_006.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "          Jenom ať mi slouží zdraví,",
         "subtitleSuggest": "",
         "filename": "plody_tantalovy_007.md",
         "xhtml": "plody_tantalovy_007.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Za rudou Zorou Slunce pozlacené",
         "subtitleSuggest": "",
         "filename": "plody_tantalovy_008.md",
         "xhtml": "plody_tantalovy_008.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Dokud, chtějíce soupeřit s tvým vlasem,",
         "subtitleSuggest": "",
         "filename": "plody_tantalovy_009.md",
         "xhtml": "plody_tantalovy_009.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ó tekutého živlu světlá slávo,",
         "subtitleSuggest": "",
         "filename": "plody_tantalovy_010.md",
         "xhtml": "plody_tantalovy_010.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Cudnosti čisté chráme zasvěcený",
         "subtitleSuggest": "",
         "filename": "plody_tantalovy_011.md",
         "xhtml": "plody_tantalovy_011.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "V dvou křišťálových schránách, zleva, zprava,",
         "subtitleSuggest": "",
         "filename": "plody_tantalovy_012.md",
         "xhtml": "plody_tantalovy_012.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Po deset let s mrtvým srdcem",
         "subtitleSuggest": "",
         "filename": "plody_tantalovy_013.md",
         "xhtml": "plody_tantalovy_013.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Že mám čas, dnes zahraju vám",
         "subtitleSuggest": "",
         "filename": "plody_tantalovy_014.md",
         "xhtml": "plody_tantalovy_014.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Když štědřeji už na pole i dále",
         "subtitleSuggest": "",
         "filename": "plody_tantalovy_015.md",
         "xhtml": "plody_tantalovy_015.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Jak by sloň od Gangy, jež má tok širý,",
         "subtitleSuggest": "",
         "filename": "plody_tantalovy_016.md",
         "xhtml": "plody_tantalovy_016.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Nebi vzdávám díky,",
         "subtitleSuggest": "",
         "filename": "plody_tantalovy_017.md",
         "xhtml": "plody_tantalovy_017.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Tak půvabně a různorodě v tónu",
         "subtitleSuggest": "",
         "filename": "plody_tantalovy_018.md",
         "xhtml": "plody_tantalovy_018.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Těch sladkých úst, která zvou okusit",
         "subtitleSuggest": "",
         "filename": "plody_tantalovy_019.md",
         "xhtml": "plody_tantalovy_019.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Pozorně mi naslouchejte,",
         "subtitleSuggest": "",
         "filename": "plody_tantalovy_020.md",
         "xhtml": "plody_tantalovy_020.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ó vale šlechetný, ó věže ladné,",
         "subtitleSuggest": "",
         "filename": "plody_tantalovy_021.md",
         "xhtml": "plody_tantalovy_021.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Potřikrát již Boréas svlékl stromy",
         "subtitleSuggest": "",
         "filename": "plody_tantalovy_022.md",
         "xhtml": "plody_tantalovy_022.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Nešťastný a zarmoucený",
         "subtitleSuggest": "",
         "filename": "plody_tantalovy_023.md",
         "xhtml": "plody_tantalovy_023.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "V Oranu svým ostrým kopím",
         "subtitleSuggest": "",
         "filename": "plody_tantalovy_024.md",
         "xhtml": "plody_tantalovy_024.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "— Jste děravá, má záštito a paní\\.",
         "subtitleSuggest": "",
         "filename": "plody_tantalovy_025.md",
         "xhtml": "plody_tantalovy_025.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Tvůj most je, Manzanaresi, až k pláči,",
         "subtitleSuggest": "",
         "filename": "plody_tantalovy_026.md",
         "xhtml": "plody_tantalovy_026.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Pláče děvče, však má",
         "subtitleSuggest": "",
         "filename": "plody_tantalovy_027.md",
         "xhtml": "plody_tantalovy_027.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Vám, plnému nymf a nymfů,",
         "subtitleSuggest": "",
         "filename": "plody_tantalovy_028.md",
         "xhtml": "plody_tantalovy_028.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "S nožkou raněnou břitem, třebas krátce (ten nástroj bolestí tě k spáse vedl), barvíš mi žalem tvář jak tajný neduh a na sníh červánky vyléváš sladce\\.",
         "subtitleSuggest": "",
         "filename": "plody_tantalovy_029.md",
         "xhtml": "plody_tantalovy_029.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Na mém sladkém inštrumentu",
         "subtitleSuggest": "",
         "filename": "plody_tantalovy_030.md",
         "xhtml": "plody_tantalovy_030.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Na kříži viset s probodnutou hrudí",
         "subtitleSuggest": "",
         "filename": "plody_tantalovy_031.md",
         "xhtml": "plody_tantalovy_031.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Peníze jsou moc a vláda,",
         "subtitleSuggest": "",
         "filename": "plody_tantalovy_032.md",
         "xhtml": "plody_tantalovy_032.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Jak Alcino krásně pláče,",
         "subtitleSuggest": "",
         "filename": "plody_tantalovy_033.md",
         "xhtml": "plody_tantalovy_033.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ze sítin Duera pastýřka má smělá",
         "subtitleSuggest": "",
         "filename": "plody_tantalovy_034.md",
         "xhtml": "plody_tantalovy_034.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "O Thisbé a Pyramovi, pokud mi v tom nezabrání kytara má, vám teď povím tklivý příběh věrné lásky\\. Vím, ve které zemi žila, o rodičích nemám zprávy; ježto víte tolik, co já, není důvod k zdržování\\. Bylať Thisbé obraz v stříbře vyrytý i rámovaný, šperk zlatý a křišťálový, rudý rubín pod smaragdy\\. Pozdravy zlata a duše, samý prsten — její vlasy; čelo zářilo jak perleť, jak skvost sluncem zraňovaný\\. Radost byly její oči, pohled nadějí byl sladký, jakou odívá se jaro o svých nejkrásnějších svátcích\\. Její ústa — jemný šarlat, v nějž se bílé perly halí, aby jako samet zlato šarlat tyto perly chránil\\. Od hlavy až k patě sypou po růžích rozkvetlý jasmín tři Grácie provázené Venuší se synkem krásným\\. Věkem — viděli jste zoubky — pouhé zdání slečny zatím; dětské střevíčky má sice, ale již chování dámy\\. Dobrý stařík byl pan otec; matka bečce spíš než kádi podobná, prostá, leč milá, sud dýňové marmelády\\. Dělali jí pomyšlení: Thisbička si ke snídani přeje mlíčko od labutí? Hned splníme její přání! Jaký div, že kolem dívky toho tolik nadělají, když je duší těch čtyř očí a dvě duše zrak v ní mají? Stejně jak otcovy paže také suknice své matky za kolébku měla v dětství, za polštář pak v útlém mládí\\.",
         "subtitleSuggest": "",
         "filename": "plody_tantalovy_035.md",
         "xhtml": "plody_tantalovy_035.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Květy rozmarýny v lukách,",
         "subtitleSuggest": "",
         "filename": "plody_tantalovy_036.md",
         "xhtml": "plody_tantalovy_036.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Ach námořníku na královském dvoře,",
         "subtitleSuggest": "",
         "filename": "plody_tantalovy_037.md",
         "xhtml": "plody_tantalovy_037.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "K hrobkám králů, k prachu plebejských kostí,",
         "subtitleSuggest": "",
         "filename": "plody_tantalovy_038.md",
         "xhtml": "plody_tantalovy_038.html"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Poutníku, tímto uhlazeným stylem",
         "subtitleSuggest": "",
         "filename": "plody_tantalovy_039.md",
         "xhtml": "plody_tantalovy_039.html"
@@ -826,6 +906,6 @@
       "user": "books-are-next",
       "repo": "gongora-y-argote-plody-tantalovy"
     },
-    "generatedAt": 1657186907656
+    "generatedAt": 1658392074112
   }
 }
