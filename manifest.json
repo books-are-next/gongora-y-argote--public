@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "argote-plody-tantalovy-ea7c671",
-  "revision": "ea7c671",
+  "identifier": "argote-plody-tantalovy-d3a0ef8",
+  "revision": "d3a0ef8",
   "readingOrder": [
     "promo.html",
     "plody_tantalovy_005.html",
@@ -51,8 +51,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Sat Oct 01 2022 15:54:35 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664639675841
+    "date": "Tue Oct 04 2022 16:42:19 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1664901739943
   },
   "documents": [
     {
@@ -790,9 +790,9 @@
     {
       "title": "Tiráž",
       "file": "about.html",
-      "words": 139,
+      "words": 138,
       "chars": 902,
-      "ideas": 15,
+      "ideas": 14,
       "role": "about",
       "order": null,
       "prev": "plody_tantalovy_040.html",
@@ -810,9 +810,9 @@
   ],
   "totals": {
     "all": {
-      "words": 6403,
+      "words": 6402,
       "chars": 35112,
-      "ideas": 1331
+      "ideas": 1330
     },
     "chapters": {
       "words": 6255,
