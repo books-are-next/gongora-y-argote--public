@@ -1,9 +1,10 @@
 ---
-title: "Když štědřeji už na pole i\_dále"
 contentType: poetry
 ---
 
 <section>
+
+## Když štědřeji už na pole i dále
 
 k lesu, jak den plášť z mlh odkládá v luka,  
 slunce hledí a když už holub vrká  

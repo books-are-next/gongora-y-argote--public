@@ -1,9 +1,10 @@
 ---
-title: "V\_Oranu svým ostrým kopím"
 contentType: poetry
 ---
 
 <section>
+
+## V Oranu svým ostrým kopím
 
 králi sloužil jeden Španěl,  
 duší však a životem svým  
