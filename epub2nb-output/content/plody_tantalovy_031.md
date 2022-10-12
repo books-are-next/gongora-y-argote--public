@@ -1,4 +1,5 @@
 ---
+title: "Na kříži viset s\_probodnutou hrudí"
 contentType: poetry
 ---
 
@@ -6,8 +7,6 @@ contentType: poetry
 
 Na narození Pána našeho  
 Ježíše Krista
-
-_Na kříži viset s probodnutou hrudí_
 
 a s trny vetknutými v obě skráně,  
 ranami za nás platit naše daně  

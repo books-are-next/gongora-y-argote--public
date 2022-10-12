@@ -1,10 +1,9 @@
 ---
+title: Pozorně mi naslouchejte,
 contentType: poetry
 ---
 
 <section>
-
-## Pozorně mi naslouchejte,
 
 kdo jste drbů nedočkaví;  
 porto tichem zaplaťte mi  

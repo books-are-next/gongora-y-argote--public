@@ -1,10 +1,9 @@
 ---
+title: "Po deset let s\_mrtvým srdcem"
 contentType: poetry
 ---
 
 <section>
-
-## Po deset let s mrtvým srdcem
 
 Belerma svůj život pojí;  
 rudoretý Francouz jí je  

@@ -1,10 +1,9 @@
 ---
+title: "Ó\_tekutého živlu světlá slávo,"
 contentType: poetry
 ---
 
 <section>
-
-## Ó tekutého živlu světlá slávo,
 
 potůčku něžný stříbřitého toku,  
 který svou vodou zavlažuješ louku  
