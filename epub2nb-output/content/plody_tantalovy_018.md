@@ -1,9 +1,10 @@
 ---
-title: "Tak půvabně a\_různorodě v\_tónu"
 contentType: poetry
 ---
 
 <section>
+
+## Tak půvabně a různorodě v tónu
 
 ten slavík pláče, že mám podezření,  
 zda tisíc jiných ukryto v něm není,  

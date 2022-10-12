@@ -1,11 +1,12 @@
 ---
-title: "Peníze jsou moc a\_vláda,"
 contentType: poetry
 ---
 
 <section>
 
-pravda!
+## Peníze jsou moc a vláda,
+
+            pravda!
 
 Čím víc vzdycháš, tím víc miluješ,
 

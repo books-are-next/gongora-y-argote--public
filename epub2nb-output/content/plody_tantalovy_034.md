@@ -1,9 +1,10 @@
 ---
-title: Ze sítin Duera pastýřka má smělá
 contentType: poetry
 ---
 
 <section>
+
+## Ze sítin Duera pastýřka má smělá
 
 má měkké lože, jež jí víly vily;  
 přístřeší nad ním palmy Taja skryly,  

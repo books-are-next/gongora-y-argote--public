@@ -1,9 +1,10 @@
 ---
-title: "Nešťastný a\_zarmoucený"
 contentType: poetry
 ---
 
 <section>
+
+## Nešťastný a zarmoucený
 
 po píscích Pisuergy bloudí,  
 odloučený od své dámy,  

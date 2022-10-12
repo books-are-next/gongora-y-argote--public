@@ -1,9 +1,10 @@
 ---
-title: "Tvůj most je, Manzanaresi, až k\_pláči,"
 contentType: poetry
 ---
 
 <section>
+
+## Tvůj most je, Manzanaresi, až k pláči,
 
 poslyš, co praví ústa prostořeká:  
 prý ani pro půl mostu nejsi řeka  
