@@ -1,10 +1,9 @@
 ---
+title: Na širých vodách řeky
 contentType: poetry
 ---
 
 <section>
-
-## Na širých vodách řeky
 
 v mém městě, jehož valy  
 v nich hrdě zhlížejí se  

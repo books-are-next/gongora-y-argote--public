@@ -1,10 +1,9 @@
 ---
+title: Že mám čas, dnes zahraju vám
 contentType: poetry
 ---
 
 <section>
-
-## Že mám čas, dnes zahraju vám
 
 s doprovodem mandolíny  
 to, co dřív na těžší nástroj  
