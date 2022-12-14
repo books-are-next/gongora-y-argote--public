@@ -5,6 +5,7 @@ contentType: poetry
 
 <section>
 
+Cudnosti čisté chráme zasvěcený  
 s krásnými základy i zdmi, jež byly  
 z perletí jen a z alabastrů bílých  
 zázračnou božskou rukou vytvořeny;

@@ -5,6 +5,7 @@ contentType: poetry
 
 <section>
 
+V\_dvou křišťálových schránách, zleva, zprava,  
 Na smrt dvou vznešených dívek,  
 sester z Córdoby
 

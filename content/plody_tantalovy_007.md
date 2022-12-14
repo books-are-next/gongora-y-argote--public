@@ -5,6 +5,7 @@ contentType: poetry
 
 <section>
 
+Jenom ať mi slouží zdraví,  
 a kdo chce, ten ať se baví!
 
 Jen ať starají se jiní  

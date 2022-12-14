@@ -5,6 +5,7 @@ contentType: poetry
 
 <section>
 
+Potřikrát již Boréas svlékl stromy  
 — všem rostlinám tak zelenou čest loupí —  
 a Foibos vystlal lože Európy  
 třikrát zlatými kolchidskými rouny

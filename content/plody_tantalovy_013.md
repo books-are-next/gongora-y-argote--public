@@ -5,6 +5,7 @@ contentType: poetry
 
 <section>
 
+Po deset let s\_mrtvým srdcem  
 Belerma svůj život pojí;  
 rudoretý Francouz jí je  
 odkázal, když padl v boji.  

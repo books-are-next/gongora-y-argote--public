@@ -5,6 +5,7 @@ contentType: poetry
 
 <section>
 
+Ó\_tekutého živlu světlá slávo,  
 potůčku něžný stříbřitého toku,  
 který svou vodou zavlažuješ louku  
 a klidně plyneš se svou písní hravou!

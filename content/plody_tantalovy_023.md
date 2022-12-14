@@ -5,6 +5,7 @@ contentType: poetry
 
 <section>
 
+Nešťastný a\_zarmoucený  
 po píscích Pisuergy bloudí,  
 odloučený od své dámy,  
 Zulema smutný a hloupý.  

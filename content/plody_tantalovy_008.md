@@ -5,6 +5,7 @@ contentType: poetry
 
 <section>
 
+Za rudou Zorou Slunce pozlacené  
 východní branou právě procházelo;  
 Jitřenka, květy zrůžovělé čelo,  
 Slunce, plameny šípů ověnčené.

@@ -7,6 +7,7 @@ contentType: poetry
 
 _Na Córdobu_
 
+Ó\_vale šlechetný, ó\_věže ladné,  
 jimž velebnost a čest korunu daly!  
 Ó veletoku, andaluský králi  
 vznešených, byť ne zlatých písků na dně!

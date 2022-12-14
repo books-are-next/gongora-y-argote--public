@@ -5,6 +5,7 @@ contentType: poetry
 
 <section>
 
+Pozorně mi naslouchejte,  
 kdo jste drbů nedočkaví;  
 porto tichem zaplaťte mi  
 za tyto pravdivé zprávy.  

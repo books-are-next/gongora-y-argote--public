@@ -5,6 +5,7 @@ contentType: poetry
 
 <section>
 
+Jedna stará dáma,  
 kterou všichni znají,  
 přítelkyně dívek,  
 jež ve vyšívání  

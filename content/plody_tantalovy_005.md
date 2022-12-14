@@ -5,6 +5,7 @@ contentType: poetry
 
 <section>
 
+Na širých vodách řeky  
 v mém městě, jehož valy  
 v nich hrdě zhlížejí se  
 a paty omývají,  

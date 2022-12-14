@@ -5,6 +5,7 @@ contentType: poetry
 
 <section>
 
+Nebi vzdávám díky,  
 moudrá střízlivosti,  
 že tvůj včasný zásah  
 pevných pout mě zprostil.  

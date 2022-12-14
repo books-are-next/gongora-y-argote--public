@@ -5,6 +5,7 @@ contentType: poetry
 
 <section>
 
+Tvůj most je, Manzanaresi, až k\_pláči,  
 poslyš, co praví ústa prostořeká:  
 prý ani pro půl mostu nejsi řeka  
 a ten tvůj most prý na tři moře stačí.
