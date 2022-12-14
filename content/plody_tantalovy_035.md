@@ -33,7 +33,7 @@ tři Grácie provázené
 Venuší se synkem krásným. 
 
 Věkem — viděli jste zoubky —  
-pouhé zdání slečny zatím\;\ 
+pouhé zdání slečny zatím\;\
 dětské střevíčky má sice,  
 ale již chování dámy.  
 
