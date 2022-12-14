@@ -5,6 +5,7 @@ contentType: poetry
 
 <section>
 
+Vám, plnému nymf a nymfů,  
 pravím, Tajo, velkolepý  
 kropiči žíznivých kdoulí,  
 Toleďane rudoretý,  

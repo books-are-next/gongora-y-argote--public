@@ -5,7 +5,7 @@ contentType: poetry
 
 <section>
 
-Dokud, chtějíce soupeřit s\_tvým vlasem,  
+Dokud, chtějíce soupeřit s tvým vlasem,  
 zlato i slunce prohrávají klání,  
 dokud se před tvým jasným čelem sklání  
 lilie rozvitá v celé své kráse,

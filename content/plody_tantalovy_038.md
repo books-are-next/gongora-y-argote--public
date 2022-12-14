@@ -7,6 +7,7 @@ contentType: poetry
 
 Na paměť smrti a pekla
 
+K hrobkám králů, k prachu plebejských kostí,  
 myšlenky mé, bez bázně pronikněte,  
 tam, kde kat dnů, jenž provází nás k Léthé,  
 nečiní kroky stejné velikosti.

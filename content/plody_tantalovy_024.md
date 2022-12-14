@@ -5,7 +5,7 @@ contentType: poetry
 
 <section>
 
-V\_Oranu svým ostrým kopím  
+V Oranu svým ostrým kopím  
 králi sloužil jeden Španěl,  
 duší však a životem svým  
 přepůvabné Afričance,  

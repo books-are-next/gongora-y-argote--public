@@ -6,7 +6,7 @@ contentType: poetry
 
 <section>
 
-S\_nožkou raněnou břitem,  
+S nožkou raněnou břitem,  
 třebas krátce (ten nástroj bolestí tě k\_spáse vedl),  
 barvíš mi žalem tvář jak tajný neduh  
 a\_na sníh červánky vyléváš sladce\\.  

@@ -5,6 +5,7 @@ contentType: poetry
 
 <section>
 
+Na kříži viset s probodnutou hrudí  
 Na narození Pána našeho  
 Ježíše Krista
 

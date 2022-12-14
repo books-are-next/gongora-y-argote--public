@@ -5,6 +5,7 @@ contentType: poetry
 
 <section>
 
+Ze sítin Duera pastýřka má smělá  
 má měkké lože, jež jí víly vily;  
 přístřeší nad ním palmy Taja skryly,  
 pokud kdy jakou tato řeka měla.

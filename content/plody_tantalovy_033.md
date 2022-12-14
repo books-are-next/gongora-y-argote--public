@@ -5,6 +5,7 @@ contentType: poetry
 
 <section>
 
+Jak Alcino krásně pláče,  
 ten Orfeus od Guadiany,  
 nad neštěstím neodbytným,  
 nad štěstím, jež nemá stání!  

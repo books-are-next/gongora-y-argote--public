@@ -5,7 +5,7 @@ contentType: poetry
 
 <section>
 
-Tak půvabně a\_různorodě v\_tónu  
+Tak půvabně a různorodě v tónu  
 ten slavík pláče, že mám podezření,  
 zda tisíc jiných ukryto v něm není,  
 jejichž bol střídá v tisíci svých stonů.

@@ -5,7 +5,7 @@ contentType: poetry
 
 <section>
 
-— Jste děravá, má záštito a\_paní\\.
+— Jste děravá, má záštito a paní.  
 Na bojovou záštitu Madridu,  
 kterou vykázali z města
 

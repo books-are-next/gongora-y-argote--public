@@ -5,6 +5,7 @@ contentType: poetry
 
 <section>
 
+Na mém sladkém inštrumentu  
 každá struna oprátka je;  
 skřipec katovi tak hraje,  
 jak mně kytara: však je tu  

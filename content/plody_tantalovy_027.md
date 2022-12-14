@@ -5,6 +5,7 @@ contentType: poetry
 
 <section>
 
+Pláče děvče, však má  
 dobré důvody:  
 hoch jí zmizel, jak když  
 padne do vody.  

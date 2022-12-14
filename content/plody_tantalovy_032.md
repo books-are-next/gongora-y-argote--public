@@ -5,6 +5,7 @@ contentType: poetry
 
 <section>
 
+Peníze jsou moc a vláda,  
 pravda!
 
 Čím víc vzdycháš, tím víc miluješ,

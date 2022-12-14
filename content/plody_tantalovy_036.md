@@ -5,6 +5,7 @@ contentType: poetry
 
 <section>
 
+Květy rozmarýny v lukách,  
 Lízo, děvče mé,
 
        to jsou dneska modré květy,  

@@ -5,6 +5,7 @@ contentType: poetry
 
 <section>
 
+Ach námořníku na královském dvoře,  
 jenž svěřuješ své plachty a svá ráhna  
 paláci, který v krásných Sirénách má  
 bohatství víc než Neapolské moře,
