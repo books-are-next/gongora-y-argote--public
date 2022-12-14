@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "argote-plody-tantalovy-d809760",
-  "revision": "d809760",
+  "identifier": "argote-plody-tantalovy-1b174cd",
+  "revision": "1b174cd",
   "readingOrder": [
     "promo.html",
     "plody_tantalovy_005.html",
@@ -51,8 +51,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Wed Dec 14 2022 21:41:36 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1671054096116
+    "date": "Wed Dec 14 2022 21:50:39 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1671054639501
   },
   "documents": [
     {
@@ -671,7 +671,7 @@
       "title": "O Thisbé a Pyramovi",
       "file": "plody_tantalovy_035.html",
       "words": 215,
-      "chars": 1182,
+      "chars": 1181,
       "ideas": 41,
       "role": "chapter",
       "order": 31,
@@ -811,12 +811,12 @@
   "totals": {
     "all": {
       "words": 6578,
-      "chars": 36085,
+      "chars": 36084,
       "ideas": 1406
     },
     "chapters": {
       "words": 6431,
-      "chars": 35134,
+      "chars": 35133,
       "ideas": 1388
     }
   }
