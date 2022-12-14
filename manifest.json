@@ -8,8 +8,8 @@
   "edition": "poezie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "argote-plody-tantalovy-0aa1a7e",
-  "revision": "0aa1a7e",
+  "identifier": "argote-plody-tantalovy-d809760",
+  "revision": "d809760",
   "readingOrder": [
     "promo.html",
     "plody_tantalovy_005.html",
@@ -51,8 +51,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Wed Dec 14 2022 21:21:50 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1671052910468
+    "date": "Wed Dec 14 2022 21:41:36 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1671054096116
   },
   "documents": [
     {
@@ -150,7 +150,7 @@
     {
       "title": "Dokud, chtějíce soupeřit s tvým vlasem,",
       "file": "plody_tantalovy_009.html",
-      "words": 95,
+      "words": 96,
       "chars": 521,
       "ideas": 16,
       "role": "chapter",
@@ -170,7 +170,7 @@
     {
       "title": "Ó tekutého živlu světlá slávo,",
       "file": "plody_tantalovy_010.html",
-      "words": 94,
+      "words": 95,
       "chars": 516,
       "ideas": 16,
       "role": "chapter",
@@ -210,7 +210,7 @@
     {
       "title": "V dvou křišťálových schránách, zleva, zprava,",
       "file": "plody_tantalovy_012.html",
-      "words": 97,
+      "words": 98,
       "chars": 572,
       "ideas": 18,
       "role": "chapter",
@@ -230,7 +230,7 @@
     {
       "title": "Po deset let s mrtvým srdcem",
       "file": "plody_tantalovy_013.html",
-      "words": 603,
+      "words": 604,
       "chars": 3330,
       "ideas": 138,
       "role": "chapter",
@@ -270,7 +270,7 @@
     {
       "title": "Když štědřeji už na pole i dále",
       "file": "plody_tantalovy_015.html",
-      "words": 99,
+      "words": 100,
       "chars": 516,
       "ideas": 16,
       "role": "chapter",
@@ -330,7 +330,7 @@
     {
       "title": "Tak půvabně a různorodě v tónu",
       "file": "plody_tantalovy_018.html",
-      "words": 94,
+      "words": 96,
       "chars": 526,
       "ideas": 16,
       "role": "chapter",
@@ -390,7 +390,7 @@
     {
       "title": "Ó vale šlechetný, ó věže ladné,",
       "file": "plody_tantalovy_021.html",
-      "words": 96,
+      "words": 98,
       "chars": 519,
       "ideas": 17,
       "role": "chapter",
@@ -430,7 +430,7 @@
     {
       "title": "Nešťastný a zarmoucený",
       "file": "plody_tantalovy_023.html",
-      "words": 331,
+      "words": 332,
       "chars": 1782,
       "ideas": 74,
       "role": "chapter",
@@ -450,7 +450,7 @@
     {
       "title": "V Oranu svým ostrým kopím",
       "file": "plody_tantalovy_024.html",
-      "words": 230,
+      "words": 231,
       "chars": 1277,
       "ideas": 54,
       "role": "chapter",
@@ -470,8 +470,8 @@
     {
       "title": "— Jste děravá, má záštito a paní.",
       "file": "plody_tantalovy_025.html",
-      "words": 119,
-      "chars": 600,
+      "words": 120,
+      "chars": 599,
       "ideas": 18,
       "role": "chapter",
       "order": 21,
@@ -490,7 +490,7 @@
     {
       "title": "Tvůj most je, Manzanaresi, až k pláči,",
       "file": "plody_tantalovy_026.html",
-      "words": 111,
+      "words": 112,
       "chars": 557,
       "ideas": 16,
       "role": "chapter",
@@ -510,9 +510,9 @@
     {
       "title": "Pláče děvče, však má",
       "file": "plody_tantalovy_027.html",
-      "words": 146,
-      "chars": 776,
-      "ideas": 45,
+      "words": 150,
+      "chars": 796,
+      "ideas": 46,
       "role": "chapter",
       "order": 23,
       "prev": "plody_tantalovy_026.html",
@@ -530,9 +530,9 @@
     {
       "title": "Vám, plnému nymf a nymfů,",
       "file": "plody_tantalovy_028.html",
-      "words": 177,
-      "chars": 1052,
-      "ideas": 45,
+      "words": 182,
+      "chars": 1077,
+      "ideas": 46,
       "role": "chapter",
       "order": 24,
       "prev": "plody_tantalovy_027.html",
@@ -550,7 +550,7 @@
     {
       "title": "S nožkou raněnou břitem",
       "file": "plody_tantalovy_029.html",
-      "words": 98,
+      "words": 99,
       "chars": 541,
       "ideas": 16,
       "role": "chapter",
@@ -570,9 +570,9 @@
     {
       "title": "Na mém sladkém inštrumentu",
       "file": "plody_tantalovy_030.html",
-      "words": 499,
-      "chars": 2715,
-      "ideas": 111,
+      "words": 503,
+      "chars": 2741,
+      "ideas": 112,
       "role": "chapter",
       "order": 26,
       "prev": "plody_tantalovy_029.html",
@@ -590,9 +590,9 @@
     {
       "title": "Na kříži viset s probodnutou hrudí",
       "file": "plody_tantalovy_031.html",
-      "words": 102,
-      "chars": 523,
-      "ideas": 17,
+      "words": 108,
+      "chars": 557,
+      "ideas": 18,
       "role": "chapter",
       "order": 27,
       "prev": "plody_tantalovy_030.html",
@@ -610,9 +610,9 @@
     {
       "title": "Peníze jsou moc a vláda,",
       "file": "plody_tantalovy_032.html",
-      "words": 231,
-      "chars": 1284,
-      "ideas": 61,
+      "words": 236,
+      "chars": 1308,
+      "ideas": 62,
       "role": "chapter",
       "order": 28,
       "prev": "plody_tantalovy_031.html",
@@ -630,9 +630,9 @@
     {
       "title": "Jak Alcino krásně pláče,",
       "file": "plody_tantalovy_033.html",
-      "words": 131,
-      "chars": 729,
-      "ideas": 29,
+      "words": 135,
+      "chars": 753,
+      "ideas": 30,
       "role": "chapter",
       "order": 29,
       "prev": "plody_tantalovy_032.html",
@@ -650,9 +650,9 @@
     {
       "title": "Ze sítin Duera pastýřka má smělá",
       "file": "plody_tantalovy_034.html",
-      "words": 90,
-      "chars": 470,
-      "ideas": 15,
+      "words": 96,
+      "chars": 502,
+      "ideas": 16,
       "role": "chapter",
       "order": 30,
       "prev": "plody_tantalovy_033.html",
@@ -670,8 +670,8 @@
     {
       "title": "O Thisbé a Pyramovi",
       "file": "plody_tantalovy_035.html",
-      "words": 197,
-      "chars": 1194,
+      "words": 215,
+      "chars": 1182,
       "ideas": 41,
       "role": "chapter",
       "order": 31,
@@ -690,9 +690,9 @@
     {
       "title": "Květy rozmarýny v lukách,",
       "file": "plody_tantalovy_036.html",
-      "words": 128,
-      "chars": 731,
-      "ideas": 33,
+      "words": 132,
+      "chars": 756,
+      "ideas": 34,
       "role": "chapter",
       "order": 32,
       "prev": "plody_tantalovy_035.html",
@@ -710,9 +710,9 @@
     {
       "title": "Ach námořníku na královském dvoře,",
       "file": "plody_tantalovy_037.html",
-      "words": 81,
-      "chars": 466,
-      "ideas": 15,
+      "words": 86,
+      "chars": 500,
+      "ideas": 16,
       "role": "chapter",
       "order": 33,
       "prev": "plody_tantalovy_036.html",
@@ -730,9 +730,9 @@
     {
       "title": "K hrobkám králů, k prachu plebejských kostí,",
       "file": "plody_tantalovy_038.html",
-      "words": 91,
-      "chars": 534,
-      "ideas": 16,
+      "words": 98,
+      "chars": 578,
+      "ideas": 17,
       "role": "chapter",
       "order": 34,
       "prev": "plody_tantalovy_037.html",
@@ -750,9 +750,9 @@
     {
       "title": "Poutníku, tímto uhlazeným stylem",
       "file": "plody_tantalovy_039.html",
-      "words": 86,
-      "chars": 506,
-      "ideas": 17,
+      "words": 90,
+      "chars": 538,
+      "ideas": 18,
       "role": "chapter",
       "order": 35,
       "prev": "plody_tantalovy_038.html",
@@ -810,14 +810,14 @@
   ],
   "totals": {
     "all": {
-      "words": 6492,
-      "chars": 35778,
-      "ideas": 1395
+      "words": 6578,
+      "chars": 36085,
+      "ideas": 1406
     },
     "chapters": {
-      "words": 6345,
-      "chars": 34827,
-      "ideas": 1377
+      "words": 6431,
+      "chars": 35134,
+      "ideas": 1388
     }
   }
 }
